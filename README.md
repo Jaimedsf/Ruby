@@ -5,9 +5,7 @@ Practicing the ruby language in 10 lessons, with a final project. Powered by [On
 - [Playlist](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
 - [Content](https://onebitcode.com/course/ruby-puro/)
 
-Note: the content above is in pt-BR
-
----
+Note: the content above is in pt-BR.
 
 ## Progress
 
