@@ -9,6 +9,21 @@ Note: the content above is in pt-BR
 
 ---
 
+## Progress
+
+- [x] Introduction to Ruby
+- [x] Ruby basics
+- [x] Control structures
+- [x] Collections
+- [x] Methods and gems
+- [ ] Object oriented programming I
+- [ ] Object oriented programming II
+- [ ] Advanced ruby I
+- [ ] Advanced ruby II
+- [ ] Final project
+
+---
+
 ### 01. Introduction to Ruby
 - General info about ruby
 - How to install ruby
