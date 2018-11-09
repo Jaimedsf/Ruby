@@ -14,8 +14,8 @@ Note: the content above is in pt-BR.
 - [x] Control structures
 - [x] Collections
 - [x] Methods and gems
-- [ ] Object oriented programming I
-- [ ] Object oriented programming II
+- [x] Object oriented programming I
+- [x] Object oriented programming II
 - [ ] Advanced ruby I
 - [ ] Advanced ruby II
 - [ ] Final project
