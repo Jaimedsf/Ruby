@@ -16,9 +16,9 @@ Note: the content above is in pt-BR.
 - [x] Methods and gems
 - [x] Object oriented programming I
 - [x] Object oriented programming II
-- [ ] Advanced ruby I
-- [ ] Advanced ruby II
-- [ ] Final project
+- [x] Advanced ruby I
+- [x] Advanced ruby II
+- [x] Final project
 
 ---
 
